@@ -1,4 +1,16 @@
 # TUGAS PRAKTIKUM KEAMANAN JARINGAN  
+
+## 👥 Kelompok
+
+**Anggota Kelompok:**
+1. Iryan Tegar  (105841113023)
+2. Andini Febrianti  (105841113223)
+3. Putri Amelia Nur  (105841114423)
+
+**Kelas** : 5JKA  
+**Mata Kuliah** : Advanced Network Security and Protocols
+
+
 ## ARP Spoofing, Session Hijacking, dan IP Spoofing
 
 Repository ini berisi dokumentasi lengkap pelaksanaan tugas praktikum Keamanan Jaringan yang membahas pengujian **ARP Spoofing**, **Session Hijacking**, dan **IP Spoofing** pada lingkungan jaringan lokal berbasis virtual machine.
@@ -50,9 +62,4 @@ Repository ini dibuat **hanya untuk keperluan akademik dan pembelajaran**. Selur
 
 ---
 
-## 👤 Penulis
-
-Nama : **IRYAN TEGAR**  
-Kelas : **5jka**  
-Mata Kuliah : **advanced network security and protocols**  
 
